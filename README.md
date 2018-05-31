@@ -1,2 +1,0 @@
-# Pythonia
-My pythonian project.
